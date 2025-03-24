@@ -1,0 +1,2 @@
+[tool.pyright]
+extraPaths = [".", 'subpages']  # Ensures Pyright recognizes modules inside 'src'
